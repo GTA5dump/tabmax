@@ -1,0 +1,4 @@
+if you want the menu to always work make sure you ytd stuff in the menu is correct! names etc.
+
+ALWAYS use releas x64!
+NEVER Debug

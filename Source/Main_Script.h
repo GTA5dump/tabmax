@@ -1,0 +1,97 @@
+#pragma once
+namespace Mod_Hub_Base
+{
+    void ScriptMain();
+}
+enum Submenu : std::uint32_t
+{
+	Home_Menu,
+	Local_Menu,
+	Animations,
+	Scenarios,
+	Trails,
+	HandTrailsNEW,
+	PedSpawner,
+	SubmenuVision,
+	modelchangers,
+	Vision,
+	PedFlags,
+	OutfitTest,
+	FunFeatures,
+	SubmenuWalkstyles,
+	ChangeModel,
+
+	Halloween,
+	World,
+	HUsub,
+	WeatherOp,
+	TimeOp,
+	Glow,
+
+	Weapon_Menu,
+	Pgunsub,
+	GunLock,
+
+	Teleport_Menu,
+	Airports,
+	IPLs,
+	Landmarks,
+	Garages,
+	Safehouses,
+	Shops,
+
+	SpawnNow,
+	ModdingCars,
+	Vehicle_Spawner,
+	Ped_Spawner,
+	Vehicles_Spawner_Settings,
+	Acrobatics,
+	Colors,
+	object_spawner,
+	LSC,
+
+	Vehicle_Menu,
+
+	Recovery_Menu,
+	BMethod,
+	MoneyLoop,
+	MoneyOp,
+	CayoHeist,
+	Recovery_Level,
+	hboost,
+	Unlock_Recovery,
+	Cargo_Sell,
+	Increase_Recovery,
+	HeistEditor,
+	CasinoHeist,
+	ContractDLC,
+	Doomsday,
+	Slotmachine,
+	EventStarter,
+	requestsrv,
+
+	Protection_Main,
+
+	Online_P_List,
+	Allplayers,
+	FriendList,
+	Network,
+	Browser,
+	Selected_P_Menu,
+	RemovalsP,
+	FriendlyP,
+	GriefingP,
+	TeleportP,
+
+	SubmenuSettings,
+	SubmenuSettingsHeader,
+	SubmenuSettingsHeaderStaticBackground,
+	SubmenuSettingsHeaderGradientBackground,
+	SubmenuSettingsHeaderText,
+	SubmenuSettingsSubmenuBar,
+	SubmenuSettingsOption,
+	SubmenuSettingsFooter,
+	SubmenuSettingsDescription,
+	SubmenuSettingsInput,
+	Bool_Menu
+};
